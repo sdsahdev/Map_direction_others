@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "41186425610",
+    "project_id": "bitefeed-e3823",
+    "storage_bucket": "bitefeed-e3823.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41186425610:android:7b0116ecc6318561db58f3",
+        "android_client_info": {
+          "package_name": "com.example.array"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41186425610-6m9tjkslrqokkdt1mi25rqoasnokun7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeTdZQdypYVMUhp01q-qbZ9lJ97OZg69U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41186425610-6m9tjkslrqokkdt1mi25rqoasnokun7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41186425610:android:214de468aba19600db58f3",
+        "android_client_info": {
+          "package_name": "com.example.uisceen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41186425610-fu4n7h1bogn3obq5tm8g71ps8b84bfkr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uisceen",
+            "certificate_hash": "a68a1aa1c2f7bbc475008177fe7e600003850b96"
+          }
+        },
+        {
+          "client_id": "41186425610-6m9tjkslrqokkdt1mi25rqoasnokun7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeTdZQdypYVMUhp01q-qbZ9lJ97OZg69U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41186425610-6m9tjkslrqokkdt1mi25rqoasnokun7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
